@@ -1,0 +1,476 @@
+
+
+
+A.O.史密斯燃气灶售后服务人工电话24小时服务上线（2026最新公告）
+
+发布时间：2026年07月03日10时13分48秒
+
+A.O.史密斯燃气灶24小时售后服务电话：𝟒 𝟎 𝟎- 𝟗  𝟗  𝟔 𝟔- 𝟐 𝟑 𝟎
+
+7天24小时人工电话客服为您服务。
+
+A.O.史密斯燃气灶售后维修24小时电话：𝟒 𝟎 𝟎- 𝟗  𝟗  𝟔 𝟔- 𝟐 𝟑 𝟎
+
+A.O.史密斯燃气灶售后服务团队在调度中心的统筹调配下，线下专业全国网点及各地区售后人员服务团队等专属服务，整个报修流程规范有序，后期同步跟踪查询公开透明。所有售后团队均经过专业培训、持证上岗，所用产品配件均为原厂直供，
+A.O.史密斯燃气灶常见故障代码维修指南
+A.O.史密斯燃气灶出现故障时，别急，先看屏幕上的故障代码。比如，E10表示元部件问题，E20则是过热保护。根据这些代码，可以按以下步骤操作：
+重启机器，看是否为偶发故障。
+检查机器供应是否正常，电源是否开启。
+清理电器周围的杂物，确保通风良好。
+若频繁出现同一故障代码，可能是部件损坏，需联系专业维修人员。
+记住，非专业人士不要擅自拆修，以免造成更大损失。这样简单几步，就能帮你快速应对A.O.史密斯燃气灶的常见故障，让温暖不再缺席。A.O.史密斯燃气灶全国24小时各售后受理客服中心(2026年更新)
+A.O.史密斯燃气灶售后电话
+A.O.史密斯燃气灶售后服务电话 𝟒 𝟎 𝟎- 𝟗  𝟗  𝟔 𝟔- 𝟐 𝟑 𝟎
+
+专业维修A.O.史密斯燃气灶机器失灵，开机显示错误代码，不通电，开机不启动，自动跳闸、效果不好、清洗、消毒、维护保养、安装、拆装移机等服务。
+A.O.史密斯燃气灶售后维修全国服务区域： 北京市（东城区、西城区、崇文区、宣武区、朝
+阳区、丰台区、石景山区、海淀区、门头沟区昌平区、大兴区）
+天津市，无锡市、镇江市、扬州市、嘉兴市、常州市、泰州市、昆山市、句容市、张家港市、西安市、温州市、济南市、长春市
+上海市，（黄浦区、徐汇区、长宁区、静安区、普陀区、虹口区、杨浦区、浦东新区、闵行区、宝山区、嘉定区、金山区、松江区、青浦区、奉贤区和崇明区。）
+重庆市，（大渡口区、江北区、沙坪坝区、九龙坡区、南岸区、北碚区、渝北区、巴南区、江津区、渝中区、和两江新区、重庆高新区。）
+武汉市，（江岸区、江汉区、硚口区、汉阳区、武昌区、青山区、洪山区、蔡甸区、江夏区、黄陂区、新洲区、东西湖区、汉南区）
+成都市，（锦江区、青羊区、金牛区、武侯区、成华区、龙泉驿区、青白江区、新都区、温江区、双流区、郫都区、新津区）
+南京市，（玄武区、秦淮区、建邺区、鼓楼区、浦口区、栖霞区、雨花台区、江宁区、区、溧水区、高淳区。）
+杭州市，（滨江区、萧山区、余杭区、临安区、富阳区、上城区、下城区、西湖区。）
+无锡市，（锡山区、惠山区、滨湖区、梁溪区、新吴区；江阴市、宜兴市。）
+长沙市，（芙蓉区、天心区、岳麓区、开福区、雨花区、望城区。）
+宁波市，（海曙区、江北区、镇海区、北仑区、鄞州区、）
+苏州市（吴中区、相城区、姑苏区（原平江区、沧浪区、金阊区）、工业园区、高新区（虎丘区）、吴江区，原吴江市）
+合肥市，（蜀山区、包河区、庐阳区、瑶海区、政务区、经济技术开发区、高新区、滨湖新区、新站区、长丰县、肥东县、肥西县，巢湖市。）
+
+江苏南京电信 IPTV 直播源下载地址： https://github.com/fishinpree/svzhpc/commit/194498365963a38b67a2521b27539a5fffc9f6ed
+
+
+江苏电信 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/bfb5eba20aa0f00a796a3035ac64dbc0590e6563
+
+
+江苏 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/5eda786f0275df6ee6ea8a8303e97a49941f9c1f
+
+
+安徽广电 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/fa7b00756bf848496b9a70d3ecaa9f85fe425d1e
+
+
+海南电信组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/b170465f4f03d50cc053269b06b8dec861f16bc9
+
+
+海南联通组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/b0ae9245744121d2e226413f86035327d23d950d
+
+
+湖北 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/659a0743d2f0d19d9bf37cfc07b31be0b76b9aba
+
+
+湖南电信组播直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/29d582e181612d8ce993e37dfa3a00f7f701915d
+
+
+湖南电信 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/b131f590e11c5a8718551862a903063ce9364383
+
+
+湖南联通组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/d077fd8bcbdb0ecbe109a90f8bb7e525520dc18d
+
+
+湖南联通 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/3b261c9bf1d3d549485950aa29e4b58d7f7bda8a
+
+
+湖南移动 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/9451232cedeecedbbc443b1c4e6cdccc9aa6f944
+
+
+湖南 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/d9cc17ba317a5be3d51e62792afca6b4438aff94
+
+
+重庆移动组播直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/9a478d05a642c088c84139d48abb2e5fc312741e
+
+
+重庆联通组播直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/384aefecef4017a8bbe3cfd9abecf4486496a9a6
+
+
+重庆联通直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/0e9157ece8442c97078ead57ba48ea8de717cefe
+
+
+重庆电信组播直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/c4276faf33f0b02a063e90a1d6998d127380ab30
+
+
+重庆电信直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/c0537263ac6e65fb2d27008820b967f03a3c21e8
+
+
+重庆 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/1fc01cff24135026174a50db5c0b616347348f08
+
+
+四川移动组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/18a09da10c79198dff339c2af9fe15baa7aa9e2f
+
+
+四川电信 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/7c3c8e6b81faeda907b1dbe0e88c4f8f4a68aba2
+
+
+四川电信 IPTV 组播直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/1605b5c08a0baa962b5b93f0ab451247c41332ed
+
+
+四川广电 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/f9170cebdcf8c05ee8c19d063357c57891892b27
+
+
+四川联通组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/c9953fdaee88307c9040f1e8b7953d946903da9a
+
+
+四川联通 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/2b8768af29c11f5bc5e40163dcc5b10f06fb910f
+
+
+四川 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/d268fae25a1a542c2525d9768628f6c9269e41ec
+
+
+云南电信组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/b87c9a2784a4f101cd5c2f919b8d0d54ae718029
+
+
+云南移动 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/4090d7a655e73d2e64de25a14f75b1b4acbb65b6
+
+
+云南 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/1976228b7344b0ce5c0fb6eab0a665c8551d8bd1
+
+
+贵州电信组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/8d1f561192d51c7ac3f46279591e03c32505a497
+
+
+贵州移动 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/fd0bb6aacebff50b76ec1da8219c980ab3c8cc2c
+
+
+贵州联通组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/19bf0de7405465a1008e82e1e1e9d7b451a6ef56
+
+
+贵州联通 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/1c1ae72993048f8483eaeeafd055ec44a3b3c26f
+
+
+贵州 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/40c9f813beedde81bbf706855a5e78c885a522a8
+
+
+福建联通组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/68e2dbea3bf7c5b7f4403aa2a7ac5179ae483c2d
+
+
+福建联通 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/5bac6d1abedd9c8a1d530c29a9df63cc37de4d65
+
+
+福建移动 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/d0874d244e54d4899a4fa8a50b94d07aea490410
+
+
+福建电信组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/e4a960e81bff3f03d79910e223737e156cfe0825
+
+
+福建电信 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/0522e923bcbb353477d944ae43a4462d1ec28a94
+
+
+福建 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/1edfd2ed733f3289c0a9fed4e3dd906bdaffa793
+
+
+安徽移动 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/d26312a19ebd7b97f2122083552bbfc2cc296ddd
+
+
+安徽电信 IPTV 组播直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/4642bd6eee4b25230cc3cc7fc8237a553455db1e
+
+
+安徽电信 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/9ef0877a524813ab4b4980f7885836c80bf0a38f
+
+
+安徽联通 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/8414d7897114fdaba2b7e781a067d6c97710f40b
+
+
+安徽 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/a48cbd9ebb88699d5b13f475ae373d5e8777db76
+
+
+陕西地方台直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/92413e5e285ae5e219ba6c4db620c7b5cae787f4
+
+
+陕西电信组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/bd32ec388d609ba5c3f8d4823320563fa45fa361
+
+
+陕西电信 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/b7e5cd6fc8ee06bbb43f3ca77f3c3893f0dd37d6
+
+
+陕西移动组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/260249c21e4b0780bbfb40abb06150d1afa11a78
+
+
+陕西移动 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/cb7a9c4dda69b298713df76aab8e18e2dca807da
+
+
+陕西 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/8a4987fc5bae2cf8fadd50fd29b2a8bc6545d401
+
+
+甘肃电信组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/b4e4595de370418c1d62cdec20f9bb8f66c2b169
+
+
+甘肃移动 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/1b14ff9b2cc3cd3340ccebafb63888f11e1bdfc3
+
+
+甘肃 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/04f6f9482d8af14cacabcf44bf6d847cc50c0d6a
+
+
+山西移动组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/e5d136e27f74182bbc9f3210eaccc9679ebdabf3
+
+
+山西联通组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/07cac9507931faee4e798d9f1857e4a03efa753c
+
+
+山西联通 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/0e0a7010fee91dd3e579b2634b69bc2a3ed9b968
+
+
+山西 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/6b67184253269480dc3082d894e97ad000f150b1
+
+
+天津电信组播直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/c38d77cf6ad1444d1788344313e30d0cd81de450
+
+
+天津联通组播直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/b5a81b16281d3f0fd1138f8eaaec5641a109b1d8
+
+
+天津 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/73f0eb7ef394b7a3f16af660d88ecec4306bfbb1
+
+
+上海移动直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/5763ed9e3d0f316f6afb59f08108d0d2bd8a878a
+
+
+上海联通组播直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/09a22d6bc73998d613d5ad6921faac7dfb00720d
+
+
+上海联通直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/194498365963a38b67a2521b27539a5fffc9f6ed
+
+
+上海电信组播直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/6a5b7089928ccfc41522bace83dec5f7dd342c07
+
+
+上海电信直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/d8fed81b405fb1cde239824086fbe2ccd4b2ff15
+
+
+上海 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/4f626a68d22cba3b5f7abd6db8ea3918ea9a8a0b
+
+
+北京移动 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/8a77d906b8c3f66c280a7782a441a5343370e740
+
+
+北京移动组播直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/3aa7ab5aa2776c7c98c424c115d250e87a5e4e03
+
+
+北京电信组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/2843318860164cf333c6208d47d9bdbef0af24be
+
+
+北京联通组播 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/0cebdbda124e4529bd08a95d240261328e709517
+
+
+北京联通 IPTV 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/684297b346cab218faf20e009907b83329d28f30
+
+
+北京 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/76db82a1a00f909787689b942f45137c445bdc4d
+
+
+部分地区的移动可全网通用：  https://github.com/fishinpree/svzhpc/commit/1c6a0e6f716d088cafa9538c8bf83ed4d4521d62
+
+
+各地运营商 IPTV 直播源，速度稳定画质好，选择你所在地宽带运营商：  https://github.com/fishinpree/svzhpc/commit/0bb7a10c0636fa71c980bcc04b7b0ecf55e19d25
+
+
+广播电台下载地址：  https://github.com/fishinpree/svzhpc/commit/bcc3392a11d7a19e92e88ecb09924b670a15a306
+
+
+国内景区直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/5935aca88e4a6550ad4c081a9309f22fc47606cb
+
+
+轮播华数黑莓下载地址：  https://github.com/fishinpree/svzhpc/commit/b170465f4f03d50cc053269b06b8dec861f16bc9
+
+
+台湾香港澳门电视台直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/b0ae9245744121d2e226413f86035327d23d950d
+
+
+韩国、日本、美国、加拿大、英国、意大利、德国、法国、西班牙、南美、俄罗斯、中东等：  https://github.com/fishinpree/svzhpc/commit/659a0743d2f0d19d9bf37cfc07b31be0b76b9aba
+
+
+国外电视台直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/29d582e181612d8ce993e37dfa3a00f7f701915d
+
+
+卫视地方台安徽农大下载地址：  https://github.com/fishinpree/svzhpc/commit/b131f590e11c5a8718551862a903063ce9364383
+
+
+卫视北京凤凰探索星空卫视北京邮电大学校园网下载地址：  https://github.com/fishinpree/svzhpc/commit/d077fd8bcbdb0ecbe109a90f8bb7e525520dc18d
+
+
+卫视上海源下载地址：  https://github.com/fishinpree/svzhpc/commit/3b261c9bf1d3d549485950aa29e4b58d7f7bda8a
+
+
+卫视重庆广电 下载地址：  https://github.com/fishinpree/svzhpc/commit/9451232cedeecedbbc443b1c4e6cdccc9aa6f944
+
+
+卫视百视 TV 下载地址：  https://github.com/fishinpree/svzhpc/commit/d9cc17ba317a5be3d51e62792afca6b4438aff94
+
+
+移动 IPv6 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/9a478d05a642c088c84139d48abb2e5fc312741e
+
+
+国内电视台 IPv6 直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/384aefecef4017a8bbe3cfd9abecf4486496a9a6
+
+
+各大卫视、上千个地方台：  https://github.com/fishinpree/svzhpc/commit/0e9157ece8442c97078ead57ba48ea8de717cefe
+
+
+国内电视台直播源下载地址：  https://github.com/fishinpree/svzhpc/commit/c4276faf33f0b02a063e90a1d6998d127380ab30
+
+
+全国可用直播源：  https://github.com/fishinpree/svzhpc/commit/c0537263ac6e65fb2d27008820b967f03a3c21e8
+
+
+包括完整内容所有已知频道：  https://github.com/fishinpree/svzhpc/commit/1fc01cff24135026174a50db5c0b616347348f08
+
+
+除成人内容以外的已知频道：  https://github.com/fishinpree/svzhpc/commit/a1090dfb80a1bb7bf85b1808b6476e58cb2aba50
+
+
+收集来自世界各地公开可用的 IPTV：  https://github.com/fishinpree/svzhpc/commit/d51cb65138c832ce0dee1ee8fc83f5fc7e61336e
+
+
+稳定地址：  https://github.com/fishinpree/svzhpc/commit/8866df2e6469fe71848131f3e123d20ccc36faff
+
+
+2026年07月03日10时13分48秒 更新 CCTV 等世界杯相关 HD 播放源：  https://github.com/fishinpree/svzhpc/commit/da286c114b3e2d91974adb48bf068cd29f24bb9c
+
+
+2026年07月03日10时13分48秒 更新 IPTV 工具：  https://github.com/fishinpree/svzhpc/commit/66a1285f52052ba897096619f81a00d687e6f9f8
+
+
+2026年07月03日10时13分48秒 更新世界各地 IPTV 频道：  https://github.com/fishinpree/svzhpc/commit/2b8768af29c11f5bc5e40163dcc5b10f06fb910f
+
+
+2026年07月03日10时13分48秒 更新全国可用直播源：  https://github.com/fishinpree/svzhpc/commit/d268fae25a1a542c2525d9768628f6c9269e41ec
+
+
+新增各地运营商的 IPTV 地址：  https://github.com/fishinpree/svzhpc/commit/b87c9a2784a4f101cd5c2f919b8d0d54ae718029
+
+
+插件推荐：  https://github.com/fishinpree/svzhpc/commit/4090d7a655e73d2e64de25a14f75b1b4acbb65b6
+
+
+视频教程增加：  https://github.com/fishinpree/svzhpc/commit/daa0bde6f34b935f2a1f14725d4021356f1dd7e9
+
+
+咪咕源失效：  https://github.com/fishinpree/svzhpc/commit/da3898605e83dec4e415a375f10387b101d37efe
+
+
+2026年07月03日10时13分48秒 更新各地运营商 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/d38d4d5e9faf50f2b498fac31af84c7564051c12
+
+
+2026年07月03日10时13分48秒 更新台湾香港海外直播源：  https://github.com/fishinpree/svzhpc/commit/a27bb74645e4d038ed720baa6607ea6ba927d832
+
+
+新增辽宁广电直播源：  https://github.com/fishinpree/svzhpc/commit/0fc02db0bbc02b5261b0a6e89ac8ee5edac9f27e
+
+
+新增江西广电直播源：  https://github.com/fishinpree/svzhpc/commit/f75d1180974dee56db049e4d342bba327ddaff7b
+
+
+新增湖北广电直播源：  https://github.com/fishinpree/svzhpc/commit/0d4aa82b85cd3536a4f30bfca15907c44c62bc98
+
+
+新增中国广电 cctv + 卫视直播源：  https://github.com/fishinpree/svzhpc/commit/894d6fb63312da4efa2bb8d89639de189f5ba9d1
+
+
+新增辽宁电信 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/82c5ca9a294de8d66c8084471e848520b7ae57bb
+
+
+2026年07月03日10时13分48秒 更新台湾香港海外直播源：  https://github.com/fishinpree/svzhpc/commit/da01bb6f51eb190680dc113821b5841b59ad9120
+
+
+新增辽宁移动直播源：  https://github.com/fishinpree/svzhpc/commit/1d05bbcfc5bd047c73fb49b05161fb7ec0d20fe2
+
+
+新增浙江杭州华数 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/6d05d5d092691a907d6e9b7e07d1ed850ac7ae50
+
+
+新增广东联通 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/2498fd88983a903ffecd910d9005c93264ab7e8f
+
+
+新增四川广电 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/4642bd6eee4b25230cc3cc7fc8237a553455db1e
+
+
+新增云南电信 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/9ef0877a524813ab4b4980f7885836c80bf0a38f
+
+
+2026年07月03日10时13分48秒 更新国内电视台直播源：  https://github.com/fishinpree/svzhpc/commit/8414d7897114fdaba2b7e781a067d6c97710f40b
+
+
+新增福建电信 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/a48cbd9ebb88699d5b13f475ae373d5e8777db76
+
+
+新增天途云 CCTV + 卫视：  https://github.com/fishinpree/svzhpc/commit/92413e5e285ae5e219ba6c4db620c7b5cae787f4
+
+
+新增腾讯云 CCTV + 卫视：  https://github.com/fishinpree/svzhpc/commit/bd32ec388d609ba5c3f8d4823320563fa45fa361
+
+
+新增 CCTV 付费频道直播源：  https://github.com/fishinpree/svzhpc/commit/b7e5cd6fc8ee06bbb43f3ca77f3c3893f0dd37d6
+
+
+新增广播电台：  https://github.com/fishinpree/svzhpc/commit/260249c21e4b0780bbfb40abb06150d1afa11a78
+
+
+2026年07月03日10时13分48秒 更新 轮播爱奇艺 CIBN 华数 NewTV 虎牙战旗：  https://github.com/fishinpree/svzhpc/commit/cb7a9c4dda69b298713df76aab8e18e2dca807da
+
+
+2026年07月03日10时13分48秒 更新 台湾香港海外直播源：  https://github.com/fishinpree/svzhpc/commit/8a4987fc5bae2cf8fadd50fd29b2a8bc6545d401
+
+
+2026年07月03日10时13分48秒 更新 国内电视台直播源：  https://github.com/fishinpree/svzhpc/commit/b4e4595de370418c1d62cdec20f9bb8f66c2b169
+
+
+国家直播源：  https://github.com/fishinpree/svzhpc/commit/1b14ff9b2cc3cd3340ccebafb63888f11e1bdfc3
+
+
+直播源：  https://github.com/fishinpree/svzhpc/commit/04f6f9482d8af14cacabcf44bf6d847cc50c0d6a
+
+
+影视剧场：  https://github.com/fishinpree/svzhpc/commit/e5d136e27f74182bbc9f3210eaccc9679ebdabf3
+
+
+台湾香港澳门：  https://github.com/fishinpree/svzhpc/commit/07cac9507931faee4e798d9f1857e4a03efa753c
+
+
+国外电视台：  https://github.com/fishinpree/svzhpc/commit/0e0a7010fee91dd3e579b2634b69bc2a3ed9b968
+
+
+国内电视台：  https://github.com/fishinpree/svzhpc/commit/6b67184253269480dc3082d894e97ad000f150b1
+
+
+更早期 2026年07月03日10时13分48秒 更新：  https://github.com/fishinpree/svzhpc/commit/07069263dddb80015ab9c06d1f1e92114c9958ac
+
+
+各地运营商 IPTV 直播源：  https://github.com/fishinpree/svzhpc/commit/e562feafd9427b5f511f78a518b346afb4b0975a
+
+
+全国可用直播源：  https://github.com/fishinpree/svzhpc/commit/6a2c27ef1a1acbb45034bd01a1661b4c47b71686
+
+
+2026年07月03日10时13分48秒 更新：  https://github.com/fishinpree/svzhpc/commit/9cf06f59f886f08cd69f133808acc95c4c5a9d5a
+
+
+赞助者：  https://github.com/fishinpree/svzhpc/commit/6c3abf486658de6ea5c7c64e9b878f06cece5637
+
+
+文章：  https://github.com/fishinpree/svzhpc/commit/20a111ec712d9eb8908c028a24f07be921af6b23
+
+
+视频教程： https://github.com/fishinpree/svzhpc/commit/6a5b7089928ccfc41522bace83dec5f7dd342c07
+
+
+插件：  https://github.com/fishinpree/svzhpc/commit/d8fed81b405fb1cde239824086fbe2ccd4b2ff15
+
+
+工具：  https://github.com/fishinpree/svzhpc/commit/4f626a68d22cba3b5f7abd6db8ea3918ea9a8a0b
+
+
+URL：  https://github.com/fishinpree/svzhpc/commit/8a77d906b8c3f66c280a7782a441a5343370e740
+
+
+目录： https://github.com/fishinpree/svzhpc/commit/3aa7ab5aa2776c7c98c424c115d250e87a5e4e03
+
+
+喀麦隆直播电视频道：  https://github.com/fishinpree/svzhpc/commit/2843318860164cf333c6208d47d9bdbef0af24be
+
+
+阿富汗直播电视频道：  https://github.com/fishinpree/svzhpc/commit/0cebdbda124e4529bd08a95d240261328e709517
+
+
+海地的直播频道：  https://github.com/fishinpree/svzhpc/commit/684297b346cab218faf20e009907b83329d28f30
+
+
+高棉直播和泰国电视，电影和电视剧：  https://github.com/fishinpree/svzhpc/commit/76db82a1a00f909787689b942f45137c445bdc4d
